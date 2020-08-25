@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
-tagline: A few more words about this theme
+title: About Me
+tagline: I'm an econ nerd.
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+I'm an Economist currently working for the Government of Canada. I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. Other non-Econ (ish) things I do include: casual PC gaming, political discussions with friends, lover of choral music, huge Tennis and Basketball fan, etc. 
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+I'm also an avid programmer, my smorgasbord of programming knowledge revolves around Python, R and MATLAB.
+
+Here is a link to my _CV_: [CV](https://github.com/lorepirri/cayman-blog)
+
+You can find the source code for all of my projects [here](https://github.com/soy-leroy)
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
