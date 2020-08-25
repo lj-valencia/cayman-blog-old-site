@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 tagline: I'm an econ nerd.
 permalink: /about.html
 ref: about
