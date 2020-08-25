@@ -7,7 +7,7 @@ ref: about
 order: 0
 ---
 
-I'm an Economist currently working for the Government of Canada. I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. Other non-Econ (ish) things I do include: casual PC gaming, political discussions with friends, lover of choral music, huge Tennis and Basketball fan, etc. 
+I'm an Economist currently working for the Government of Canada. I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. Other non-Econ (ish) things about me include: casual PC gaming, political discussions with friends, singing choral music, huge Tennis and Basketball fan, etc. 
 
 I'm also an avid programmer, my smorgasbord of programming knowledge revolves around Python, R and MATLAB.
 
