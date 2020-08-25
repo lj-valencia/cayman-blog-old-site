@@ -2,7 +2,7 @@ title: LJ Valencia
 description: A blog run by an Econ nerd.
 show_downloads: true
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://soy-leroy.github.io" # change this to the base hostname & protocol for your site
 
 
