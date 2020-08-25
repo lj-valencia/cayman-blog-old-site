@@ -19,7 +19,7 @@ theme: # leave it empty
 author: LJ Valencia
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: SoyLeroy
 
 plugins:
   - jekyll-target-blank
