@@ -3,7 +3,7 @@ layout: page
 title: Projects
 tagline: Here is a post about my projects.
 permalink: /projects.html
-ref: now
+ref:projects
 order: 2
 ---
 
