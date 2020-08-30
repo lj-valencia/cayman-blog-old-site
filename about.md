@@ -11,7 +11,7 @@ I'm an Economist currently working for the Government of Canada. I graduated wit
 
 I'm also an avid programmer, my smorgasbord of programming knowledge revolves around Python, R and MATLAB.
 
-For my _CV_, [click here](https://github.com/lorepirri/cayman-blog)
+For my _CV_, [click here](CV_Draft.pdf)
 
 You can find the source code for all of my projects [here](https://github.com/soy-leroy)
 
