@@ -28,4 +28,3 @@ target-blank:
     rel: nofollow
 
 header_page_refs: ['projects', 'about', 'contact']
-default_refs: ['projects', 'about', 'contact']
