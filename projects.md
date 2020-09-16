@@ -13,7 +13,11 @@ This is a set of introductory examples on how to apply Python to intermediate an
 
 ### List of Models
 [Malthusian Growth Model](https://github.com/soy-leroy/Python-for-Macroeconomics/blob/master/malthusian-model.py)
+
+[IS-MP Model]()
+
 [Diamond-Dybvig Model]()
+
 [Barro-Gordon Model]()
 
 # MATLAB
