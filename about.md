@@ -7,11 +7,11 @@ ref: about
 order: 0
 ---
 
-I'm an Economist currently working for the Government of Canada. I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. Other non-Econ (ish) things about me include: casual PC gaming, political discussions with friends, singing choral music, I'm also a Tennis and Basketball fan, etc. 
+I am a Junior Economist currently working at the Government of Canada, Western Economic Diversification Canada (WD). I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. My research interests are mostly focused on Macroeconomics and Political Economy. I am also very passionate about applying data science methods to economic analysis. 
+
+I am a casual PC gamer, I frequently discuss politics with my friends, I sing a lot of choral music, and I am also a Basketball and Tennis fan. I'm also an avid programmer, my programming knowledge revolves around Python, R and MATLAB.
 
 I originally grew up in the Philippines and currently reside in Edmonton.
-
-I'm also an avid programmer, my smorgasbord of programming knowledge revolves around Python, R and MATLAB.
 
 For my _CV_, [click here](CV_Draft.pdf)
 
