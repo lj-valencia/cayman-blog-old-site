@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: I'm an econ nerd.
+tagline: Economics nerd. Casual gamer. Avid programmer. 
 permalink: /about.html
 ref: about
 order: 0
