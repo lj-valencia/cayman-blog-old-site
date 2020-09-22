@@ -25,7 +25,7 @@ This contains a set of projects I worked on using MATLAB and the IRIS macroecono
 
 ### Canadian Macroeconomic Forecasting 
 This is a project I worked on during the summer of 2020 which involves a forecast of the Canadian Economy by estimating a simple Dynamic Stochastic General Equilibrium (DSGE) model. I used MATLAB and the macroeconomic modelling toolbox, IRIS for this project. 
-[NKPC Model](NKPC Model/NKPC.md)
+[NKPC Model]()
 
 ### Vector Autoregression Model
 This project contains MATLAB code for a simple Vector Autoregression (VAR) Model of the Canadian Economy. 
