@@ -6,7 +6,7 @@ permalink: /about.html
 ref: about
 order: 0
 ---
-![image](DSC_8671.jpg){:height="15%"}
+![image](DSC_8671.jpg){: .image-left height="15%"}
 
 I currently work as a Junior Economist at the Government of Canada, Western Economic Diversification (WD). I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. My research interests are mostly focused on Macroeconomics and Political Economy. I am a firm believer in applying data science to economic analysis and policy formulation.
 
