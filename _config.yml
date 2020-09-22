@@ -27,4 +27,5 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['projects', 'about', 'contact']
+header_page_refs: ['projects', 'about']
+# header_page_refs: ['projects', 'about', 'contact']; use this to add contact portion.
