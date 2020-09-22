@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Welcome to my blog! 
+Welcome to my personal page! 
 
 I created this page to showcase my work on all things Economics (and not).
 
