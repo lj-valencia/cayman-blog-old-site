@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: Economics nerd. Casual gamer. Avid programmer. 
+tagline: Economics nerd. Casual gamer. Avid programmer. In no particular order.
 permalink: /about.html
 ref: about
 order: 0
@@ -15,6 +15,6 @@ I originally grew up in the Philippines and currently reside in Edmonton, AB, Ca
 
 For my _CV_, [click here](CV_Draft.pdf)
 
-You can find the source code for all of my projects [here](https://github.com/soy-leroy)
+You can find the source code for all of my projects [here](https://github.com/lj-valencia)
 
 [Go to the Home Page]({{ '/' | absolute_url }})
