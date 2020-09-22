@@ -12,7 +12,7 @@ This page contains links to projects I have worked using Python, R, and MATLAB.
 This is a set of introductory examples on how to apply Python to intermediate and advanced macroeconomic modelling. I do not fully discuss the nuances of the models and 
 
 ### List of Models
-[Malthusian Growth Model](https://github.com/lj-valencia/Python-for-Macroeconomics/blob/master/malthusian-model.py)
+[Malthusian Growth Model](https://github.com/lj-valencia/Python-for-Macroeconomics/blob/master/Malthusian%20Model.ipynb)
 
 [IS-MP Model]()
 
