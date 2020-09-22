@@ -10,7 +10,7 @@ layout: home
 
 Welcome to my blog! 
 
-I created this blog to showcase and discuss all things Economics (and not). However, it will be mostly about Economics.
+I created this blog to showcase my work and discuss all things Economics (and not). However, it will mostly be about Economics.
 
-Various economics/data-science related projects I've worked on are found under the Projects section of this page.
+Various economics-related projects I've worked on are found under the Projects section of this page.
 
