@@ -14,7 +14,7 @@ I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
 For my _CV_, [click here](CV_Draft.pdf)
 
-And for contacting purposes, **Email:** lebjenri@ualberta.ca
+You can also reach out to me via **Email:** lebjenri@ualberta.ca
 
 You can find the source code for all of my projects [here](https://github.com/lj-valencia)
 
