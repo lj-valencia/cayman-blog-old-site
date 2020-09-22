@@ -12,7 +12,7 @@ This page contains links to projects I have worked using Python, R, and MATLAB.
 This is a set of introductory examples on how to apply Python to intermediate and advanced macroeconomic modelling. I do not fully discuss the nuances of the models and 
 
 ### List of Models
-[Malthusian Growth Model](https://github.com/soy-leroy/Python-for-Macroeconomics/blob/master/malthusian-model.py)
+[Malthusian Growth Model](https://github.com/lj-valencia/Python-for-Macroeconomics/blob/master/malthusian-model.py)
 
 [IS-MP Model]()
 
@@ -25,7 +25,7 @@ This contains a set of projects I worked on using MATLAB and the IRIS macroecono
 
 ### Canadian Macroeconomic Forecasting 
 This is a project I worked on during the summer of 2020 which involves a forecast of the Canadian Economy by estimating a simple Dynamic Stochastic General Equilibrium (DSGE) model. I used MATLAB and the macroeconomic modelling toolbox, IRIS for this project. 
-[NKPC Model]()
+[NKPC Model](https://github.com/lj-valencia/MATLAB-Projects/tree/master/NKPC%20Model)
 
 ### Vector Autoregression Model
 This project contains MATLAB code for a simple Vector Autoregression (VAR) Model of the Canadian Economy. 
