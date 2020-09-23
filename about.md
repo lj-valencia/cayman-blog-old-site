@@ -13,9 +13,9 @@ I am a casual PC gamer, I frequently discuss politics with my friends, I am a pa
 
 I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
-For my **_CV:_**, [click here](CV_Draft.pdf)
+For my **_CV_**, [click here](CV_Draft.pdf)
 
-**_Email:_** [lebjenri@ualberta.ca](mailto:lebjenri@ualberta.ca)
+**Email:** [lebjenri@ualberta.ca](mailto:lebjenri@ualberta.ca)
 
 You can find the source code for all of my projects [here](https://github.com/lj-valencia)
 
