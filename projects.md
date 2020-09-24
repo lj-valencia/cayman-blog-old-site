@@ -9,7 +9,7 @@ order: 2
 This page contains links to projects I have worked using Python, R, and MATLAB.
 
 # Python for Economics
-This is a set of introductory examples on how to apply Python to intermediate and advanced macroeconomic modelling. I do not fully discuss the nuances of the models and do not discuss appropriate programming practices and conventions. 
+This is a set of introductory examples on how to apply Python to intermediate and advanced macroeconomic modelling. I do not fully discuss the nuances of the models and  appropriate programming practices/conventions in these examples.
 
 ### List of Models
 [Malthusian Growth Model](https://github.com/lj-valencia/Python-for-Macroeconomics/blob/master/Malthusian%20Model.ipynb)
