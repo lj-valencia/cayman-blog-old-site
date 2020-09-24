@@ -33,6 +33,8 @@ This project contains MATLAB code for a simple Vector Autoregression (VAR) Model
 
 # R-related Projects
 
+[Time-Series Forecasting via Autoregressive LASSO]()
+
 This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
