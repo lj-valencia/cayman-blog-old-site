@@ -18,14 +18,10 @@ This is a set of introductory examples on how to apply Python to economic modell
 This contains a set of projects I worked on using MATLAB and the IRIS macroeconomic modelling toolbox.
 
 ### Canadian Macroeconomic Forecasting 
-This is a project I worked on during the summer of 2020. In this project, I produced a forecast of the Canadian Economy by estimating a simple Dynamic Stochastic General Equilibrium (DSGE) model. 
-
-[NKPC Model](https://github.com/lj-valencia/MATLAB-Projects/tree/master/NKPC%20Model)
+This is a project I worked on during the summer of 2020. In this project, I produced a forecast of the Canadian Economy by estimating a simple Dynamic Stochastic General Equilibrium (DSGE) model. [NKPC Model](https://github.com/lj-valencia/MATLAB-Projects/tree/master/NKPC%20Model)
 
 ### Vector Autoregression Model
-This project contains MATLAB code for a simple Vector Autoregression (VAR) Model of the Canadian Economy. 
-
-[VAR Model]()
+This project contains MATLAB code for a simple Vector Autoregression (VAR) Model of the Canadian Economy. [VAR Model]()
 
 # R-related Projects
 
