@@ -13,7 +13,7 @@ I am a casual PC gamer, I frequently discuss politics with my friends, I am a pa
 
 I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
-For my **_CV_**, [click here](CV_Draft.pdf)
+For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 
 **Email:** [lebjenri@ualberta.ca](mailto:lebjenri@ualberta.ca)
 
