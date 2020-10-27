@@ -22,8 +22,8 @@ This is a project I worked on during the summer of 2020. In this project, I prod
 
 # R-related Projects
 
-[Time-Series Forecasting via Autoregressive LASSO](autoregressive-lasso.pdf)
+[Time-Series Forecasting via Autoregressive LASSO](https://github.com/lj-valencia/R-projects/blob/master/autoregressive-lasso.pdf)
 
-[Manipulating Statistics Canada data in R](manipulate-cansim.pdf)
+[Manipulating Statistics Canada Data in R](https://github.com/lj-valencia/R-projects/blob/master/manipulate-cansim.pdf)
 
 [Go to the Home Page]({{ '/' | absolute_url }})
