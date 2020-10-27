@@ -26,4 +26,3 @@ This is a project I worked on during the summer of 2020. In this project, I prod
 
 [Manipulating Statistics Canada Data in R](https://github.com/lj-valencia/R-projects/blob/master/manipulate-cansim.pdf)
 
-[Go to the Home Page]({{ '/' | absolute_url }})
