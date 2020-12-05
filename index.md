@@ -10,6 +10,6 @@ layout: home
 
 Welcome to my personal page! 
 
-I created this page to showcase my work on all things Economics (and not).
+I created this page to showcase my coding projects on all thing Economics and not. 
 
-Various economics-related projects I've worked on are located in the Projects section of this page.
+Various projects I have worked on are located in the Projects section of this page.
