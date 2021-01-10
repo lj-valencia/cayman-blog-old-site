@@ -1,6 +1,5 @@
 ---
 layout: page
-<div class="circular"><img src="DSC_8671.jpg" alt="" /></div>
 title: About
 tagline: Economics nerd. Casual gamer. Avid programmer.
 permalink: /about.html
