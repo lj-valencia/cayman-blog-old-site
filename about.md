@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About
 tagline: Economics nerd. Casual gamer. Avid programmer.
 permalink: /about.html
