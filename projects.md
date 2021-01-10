@@ -15,14 +15,17 @@ This is a set of introductory examples on how to apply Python to economic modell
 [Malthusian Growth Model](https://github.com/lj-valencia/Python-for-Macroeconomics/blob/master/Malthusian%20Model.ipynb)
 
 # MATLAB
-This contains a set of projects I worked on using MATLAB and the IRIS macroeconomic modelling toolbox.
+Projects I worked on using MATLAB involve the IRIS macroeconomic modelling toolbox.
 
 ### Canadian Macroeconomic Forecasting 
-This is a project I worked on during the summer of 2020. In this project, I produced a forecast of the Canadian Economy by estimating a simple Dynamic Stochastic General Equilibrium (DSGE) model. [NKPC Model](https://github.com/lj-valencia/MATLAB-Projects/tree/master/NKPC%20Model)
+This is a project I worked on during the summer of 2020. The goal of the project is to create a forecast of the Canadian Economy by estimating a simple Dynamic Stochastic General Equilibrium (DSGE) model. To see the files, [click here](https://github.com/lj-valencia/MATLAB-Projects/tree/master/NKPC%20Model).
 
 # R-related Projects
 
-[Time-Series Forecasting using Autoregressive LASSO](https://github.com/lj-valencia/R-projects/blob/master/autoregressive-lasso.pdf)
+### Time-Series Forecasting using Autoregressive LASSO
+This project demonstrates how to estimate an autoregressive LASSO using a lagged data-set and use this estimated model for forecasting. To see the files, 
+[click here](https://github.com/lj-valencia/R-projects/tree/master/Autoregressive-LASSO).
 
-[Manipulating Statistics Canada Data in R](https://github.com/lj-valencia/R-projects/blob/master/manipulate-cansim.pdf)
+### Data Retrieval using CANSIM & R
+This project shows how to retrieve data from CANSIM using the cansim package. Vector coordinates are used through the cansim package to retrieve data. To see the files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval).
 
