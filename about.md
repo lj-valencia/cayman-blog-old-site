@@ -9,6 +9,7 @@ order: 0
 I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. My research interests focus on Political Economy, Macroeconomics, and Data Science. 
 
 I currently work as a Junior Economist at the Government of Canada, Western Economic Diversification (WD) where I apply economics and data science in fostering data-driven public policy. I am also an avid programmer. My programming knowledge is mostly on:
+
 <div class="row">
   <div class="column">
     <img src="https://github.com/lj-valencia/lj-valencia.github.io/blob/master/assets/css/Python-Logo.png" height="auto" width="200" style="border-radius:50%">
