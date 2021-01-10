@@ -18,7 +18,7 @@ I currently work as a Junior Economist at the Government of Canada, Western Econ
     <img src="https://github.com/lj-valencia/lj-valencia.github.io/blob/master/assets/css/R-Logo.png" height="auto" width="150" style="border-radius:50%"></a>
   </div>
   <div class="column">
-    <img src="https://github.com/lj-valencia/lj-valencia.github.io/blob/master/assets/css/Matlab-Logo.png" height="auto" width="170" style="border-radius:50%"></a>
+    <img src="https://github.com/lj-valencia/lj-valencia.github.io/blob/master/assets/css/Matlab-Logo.png" height="auto" width="190" style="border-radius:50%"></a>
   </div>
   <div class="column">
     <img src="https://github.com/lj-valencia/lj-valencia.github.io/blob/master/assets/css/LaTeX_logo.svg" height="auto" width="200" style="border-radius:50%"></a>
@@ -27,8 +27,6 @@ I currently work as a Junior Economist at the Government of Canada, Western Econ
     <img src="https://github.com/lj-valencia/lj-valencia.github.io/blob/master/assets/css/Stata-Logo.svg" height="auto" width="200" style="border-radius:50%"></a>
   </div>
 </div>
- 
-I am a casual PC gamer, I frequently discuss politics with my friends, I sing choral music, and I am a huge fan of Basketball and Tennis. I am also an avid programmer. My programming knowledge is mostly on Python, R, MATLAB, and LaTeX. I am also familiar with STATA.
 
 I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
