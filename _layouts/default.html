@@ -65,12 +65,9 @@
         {% endif %}
             
         <section class="page-header">  
-            <!-- About -->
             {% if page.layout == 'about-custom' %}
             <div class="circular"></div>
-            <h1 class="project-name">{{ page-title }}</h1>
-            <h2 class="project-tagline">{{ page-tagline }}</h2>
-            <!-- End: About -->
+            {% endif %}
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
             {% if page.layout == 'home' and site.github.is_project_page %}
@@ -78,7 +75,6 @@
             {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-            {% endif %}
             {% endif %}
             {% endif %}
             <!-- Post tagline -->
