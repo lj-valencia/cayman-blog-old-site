@@ -9,6 +9,9 @@
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 	background: url('DSC_8671.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 200px 200px;
+	margin: auto;
 	}
 
 .circular img {
@@ -16,6 +19,3 @@
 	filter: alpha(opacity=0);
 	}
 
-background-position: 50% 50%;
-background-size: 200px 200px;
-margin: auto;
