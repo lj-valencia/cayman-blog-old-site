@@ -63,11 +63,16 @@
         {% if page.layout == 'post' %}
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
+        
+        {% if page.layout == 'about-custom' %}
+        <section class="page-header">  
+            <div class="circular"></div>
+            <h1 class="project-name">{{ page-title }}</h1>
+            <h2 class="project-tagline">{{ page-tagline }}</h2>
+        </section>
+        {% endif %}
             
         <section class="page-header">  
-            {% if page.layout == 'about-custom' %}
-            <div class="circular"></div>
-            {% endif %}
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
             {% if page.layout == 'home' and site.github.is_project_page %}
