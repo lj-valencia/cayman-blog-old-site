@@ -65,9 +65,10 @@
         {% endif %}
         
         <section class="page-header">
-            <div style="background-image: url('ImageLocation');background-size: cover; height:480px; padding-top:80px;">
-            <img src="DSC_8671.jpg" style="height:150px; "border-radius: 50%; border: 10px solid #FEDE00;" alt="">
-            </div>
+            % <div style="background-image: url('ImageLocation');background-size: cover; height:480px; padding-top:80px;"> %
+            % <img src="DSC_8671.jpg" style="height:150px; "border-radius: 50%; border: 10px solid #FEDE00;" alt=""> %
+            % </div> %
+            <div class="circular"><img src="DSC_8671.jpg" alt="" /></div>                                                                                                     
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
             {% if page.layout == 'home' and site.github.is_project_page %}
