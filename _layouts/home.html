@@ -21,7 +21,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h2>
-
+        <div class="circular"><img src="http://link-to-your/image.jpg" alt="" /></div>
         {{ post.excerpt | markdownify | truncatewords: 30 }}
 
       </li>
