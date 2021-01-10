@@ -8,9 +8,11 @@
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: url("https://github.com/lj-valencia/lj-valencia.github.io/blob/master/DSC_8671.jpg") no-repeat;
-	background-position: 50% 50%;
-	background-size: 200px 200px;
+	background: url("https://github.com/lj-valencia/lj-valencia.github.io/blob/master/DSC_8671.jpg") no-repeat50% 50%;
+	background-size: contain;
+	width: 200px;
+	height: 200px;
+	border-radius: 200px;
 	margin: auto;
 	}
 
