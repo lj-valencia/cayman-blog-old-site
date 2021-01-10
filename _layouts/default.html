@@ -65,6 +65,11 @@
         {% endif %}
             
         <section class="page-header">  
+            <!-- About -->
+            {% if page.layout == 'about-custom' %}
+            <div class="circular"></div>
+            {% endif %}
+            <!-- End: About -->
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
             {% if page.layout == 'home' and site.github.is_project_page %}
