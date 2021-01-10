@@ -64,6 +64,15 @@
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
         
+        <!-- About -->
+        {% if page.layout == 'about-custom' %}
+        <section class="page-header">  
+            <div class="circular"></div>
+            <h1 class="project-name">{{ page-title }}</h1>
+            <h2 class="project-tagline">{{ page-tagline }}</h2>
+        {% endif %}
+        <!-- End: About -->
+            
         <section class="page-header">  
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
@@ -74,13 +83,6 @@
             <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
             {% endif %}
             {% endif %}
-            <!-- About -->
-            {% if page.layout == 'about-custom' %}
-            <div class="circular"></div>
-            <h1 class="project-name">{{ page-title }}</h1>
-            <h2 class="project-tagline">{{ page-tagline }}</h2>
-            {% endif %}
-            <!-- End: About -->
             <!-- Post tagline -->
             {% if page.layout == 'post' %}
             <h2 class="project-date">
