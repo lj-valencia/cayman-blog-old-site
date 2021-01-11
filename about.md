@@ -8,7 +8,7 @@ order: 0
 ---
 I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. My research interests focus on Political Economy, Macroeconomics, and Data Science. 
 
-I currently work as a Junior Economist at the Government of Canada, Western Economic Diversification (WD) where I apply economics and data science in fostering data-driven public policy. I am also an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I also have limited knowledge of STATA. 
+I currently work as a Junior Economist at [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) where I apply economics and data science in fostering data-driven public policy. I am also an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I also have limited knowledge of STATA. 
 
 I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
