@@ -8,6 +8,6 @@
 layout: home
 ---
 
-Welcome to my personal page! 
+Hello there! Welcome to my personal page! 
 
-Various projects I completed and in-progress are located in the Projects section of this page.
+Various projects I completed and in-progress are located in the Projects section.
