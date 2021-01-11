@@ -17,5 +17,3 @@ For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 **Email:** [lebjenri@ualberta.ca](mailto:lebjenri@ualberta.ca)
 
 You can find the source code for all of my projects [here](https://github.com/lj-valencia)
-
-[Go to the Home Page]({{ '/' | absolute_url }})
