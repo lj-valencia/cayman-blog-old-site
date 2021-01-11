@@ -10,9 +10,9 @@ I graduated with a Bachelor of Arts (Honors) with a major in Economics and a min
 
 I currently work as a Junior Economist at the Government of Canada, Western Economic Diversification (WD) where I apply economics and data science in fostering data-driven public policy. I am also an avid programmer. I write code in:
 
-![](assets/python.jpg){ width=50% }
-![](assets/r.jpg){ width=50% }
-![](assets/matlab.jpg){ width=50% }
+![](assets/python.png){ width=50% }
+![](assets/r.png){ width=50% }
+![](assets/matlab.png){ width=50% }
 ![](assets/latex.svg){ width=50% }
 ![](assets/stata.svg){ width=50% }
 
