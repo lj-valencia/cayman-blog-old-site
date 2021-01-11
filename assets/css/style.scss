@@ -19,24 +19,3 @@
   opacity: 0;
   filter: alpha(opacity=0);
   }
-
-.skills-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-evenly;
-  align-items: stretch;
-}
-
-.skills-box {
-  display: block;
-  width: 200px;
-  // border: 1px solid red;
-  text-align: center;
-  cursor: pointer;
-}
-
-.skills-logo {
-  height: 100px;
-  width: auto;
-}
