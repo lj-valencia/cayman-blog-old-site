@@ -12,6 +12,8 @@ I currently work as a Junior Economist at the Government of Canada, Western Econ
 
 I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
+![](latex.svg)
+
 For my **_CV_**, [click here](LJ-Valencia-CV.pdf)
 
 **Email:** [lebjenri@ualberta.ca](mailto:lebjenri@ualberta.ca)
