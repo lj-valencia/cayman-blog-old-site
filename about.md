@@ -12,7 +12,7 @@ I currently work as a Junior Economist at the Government of Canada, Western Econ
 
 <div class="skills-container">
     <div class="skills-box">
-        <img class="skills-logo" alt="Python" src=""assets/python.png">
+        <img class="skills-logo" alt="Python" src="assets/python.png">
         <h4>Python</h4>
     </div>
     <div class="skills-box">
