@@ -1,7 +1,7 @@
 ---
 layout: about-custom
 title: About
-tagline: Economics nerd. Avid programmer.Casual gamer.
+tagline: Economics nerd. Avid programmer. Casual PC gamer.
 permalink: /about.html
 ref: about
 order: 0
