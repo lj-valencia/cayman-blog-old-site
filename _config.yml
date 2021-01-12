@@ -20,7 +20,8 @@ author: LJ Valencia
 image: /thumbnail-jumbo.png
 twitter:
   username: SoyLeroy
-  
+linkedin_username: lj-valencia
+
 plugins:
   - jekyll-target-blank
 
