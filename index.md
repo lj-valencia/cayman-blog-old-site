@@ -10,4 +10,4 @@ layout: home
 
 Welcome to my personal page! 
 
-To see all projects I've completed and currently in-progress, please go to the Projects section. 
+To see all coding projects I've completed and currently in-progress, please go to the Projects section. 
