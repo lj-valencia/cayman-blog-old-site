@@ -395,6 +395,25 @@ a {
   }
 }
 
+.site-footer-alt {
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: solid 1px $hr-border-color;
+
+  @include large {
+    font-size: 0.7rem;
+  }
+
+  @include medium {
+    font-size: 0.7rem;
+  }
+
+  @include small {
+    font-size: 0.6rem;
+    margin-bottom: 0.2rem;
+  }
+}
+
 .site-footer-owner {
   display: block;
   font-weight: bold;
