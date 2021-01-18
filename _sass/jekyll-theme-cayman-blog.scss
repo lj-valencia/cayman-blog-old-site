@@ -397,27 +397,6 @@ a {
   }
 }
 
-.site-footer-alt {
-  padding-top: 1rem;
-  margin-top: 1rem;
-
-  @include large {
-    padding: 0px 5px 0px 5px;
-    font-size: 0.8rem;
-  }
-
-  @include medium {
-    padding: 0px 10px 10px 10px;
-    font-size: 0.8rem;
-  }
-
-  @include small {
-    padding: 0px 10px 10px 10px;
-    font-size: 0.7rem;
-    margin-bottom: 0.3rem;
-  }
-}
-
 .site-footer-owner {
   display: block;
   font-weight: bold;
