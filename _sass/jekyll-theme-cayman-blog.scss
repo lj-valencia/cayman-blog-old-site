@@ -396,21 +396,20 @@ a {
 }
 
 .site-footer-alt {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px $hr-border-color;
+  padding-top: 1rem;
+  margin-top: 1rem;
 
   @include large {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 
   @include medium {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 
   @include small {
-    font-size: 0.6rem;
-    margin-bottom: 0.2rem;
+    font-size: 0.7rem;
+    margin-bottom: 0.3rem;
   }
 }
 
