@@ -383,7 +383,6 @@ a {
   border-top: solid 1px $hr-border-color;
 
   @include large {
-    padding: 0px 5px 0px 5px;
     font-size: 1rem;
   }
 
@@ -394,6 +393,25 @@ a {
   @include small {
     font-size: 0.9rem;
     margin-bottom: 0.5rem;
+  }
+}
+
+/* Website footer elements for the text*/
+.site-footer {
+  padding-top: 0.9rem;
+  margin-top: 0.9rem;
+
+  @include large {
+    font-size: 0.8rem;
+  }
+
+  @include medium {
+    font-size: 0.8rem;
+  }
+
+  @include small {
+    font-size: 0.7rem;
+    margin-bottom: 0.3rem;
   }
 }
 
