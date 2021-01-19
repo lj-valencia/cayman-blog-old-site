@@ -6,7 +6,7 @@ permalink: /about.html
 ref: about
 order: 0
 ---
-## About me.
+# About me
 I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. My research interests focus on political economy, macroeconomics, and data science. 
 
 Shortly after graduating at the University of Alberta, I joined [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist where 
@@ -16,4 +16,4 @@ I am an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I have so
 
 Outside of my passion for Economics, I sing in a couple of choral ensembles, I like reading books, and watching documentaries. I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
-[**CV**](LJ-Valencia-CV.pdf) <font size="4"> ○ </font> [**Contact me**](mailto:lebjenri@ualberta.ca) <font size="4"> ○ </font> [**Github**](https://github.com/lj-valencia)
+[**CV**](LJ-Valencia-CV.pdf) <font size="3"> ○ </font> [**Contact me**](mailto:lebjenri@ualberta.ca) <font size="3"> ○ </font> [**Github**](https://github.com/lj-valencia)
