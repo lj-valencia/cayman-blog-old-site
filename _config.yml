@@ -17,7 +17,8 @@ theme: # leave it empty
 
 # social
 author: LJ Valencia
-image: /thumbnail-jumbo.png
+# image: /thumbnail-jumbo.png
+image: /lj-valencia-site.JPG
 twitter:
   username: SoyLeroy
 linkedin_username: lj-valencia
