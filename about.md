@@ -16,4 +16,4 @@ I am an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I have so
 
 Outside of my passion for Economics, I sing in a couple of choral ensembles, I like reading books, and watching documentaries. I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
-[**CV**](LJ-Valencia-CV.pdf) <p style="font-size:8pt"> ○ </p> [**Contact me**](mailto:lebjenri@ualberta.ca) <p style="font-size:8pt"> ○ </p> [**Github**](https://github.com/lj-valencia)
+[**CV**](LJ-Valencia-CV.pdf) <font size="1"> ○ </font> [**Contact me**](mailto:lebjenri@ualberta.ca) <font size="1"> ○ </font> [**Github**](https://github.com/lj-valencia)
