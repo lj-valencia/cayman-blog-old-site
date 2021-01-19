@@ -18,6 +18,6 @@ Outside of my passion for Economics, I sing in a couple of choral ensembles, I l
 
 I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
-<pre><a href="LJ-Valencia-CV.pdf">CV</a> <font size="3">   ○   </font> <a href="mailto:lebjenri@ualberta.ca"Contact me</a><font size="3">   ○   </font> <a href="https://github.com/lj-valencia">CV</a></pre>
+<pre><a style="font-weight:bold" href="LJ-Valencia-CV.pdf">CV</a> <font size="3">   ○   </font> <a style="font-weight:bold" href="mailto:lebjenri@ualberta.ca">Contact me</a> <font size="3">   ○   </font> <a style="font-weight:bold" href="https://github.com/lj-valencia">CV</a></pre>
 
 <!-- [**CV**](LJ-Valencia-CV.pdf) <font size="3">   ○   </font> [**Contact me**](mailto:lebjenri@ualberta.ca) <font size="3">   ○   </font> [**Github**](https://github.com/lj-valencia) -->
