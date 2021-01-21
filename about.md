@@ -13,7 +13,7 @@ Shortly after graduating at the University of Alberta, I joined [Western Economi
 I apply economics and data science in developing evidence-driven public policy. 
 
 ## Programming
-I am an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I have some knowledge and training in STATA as well. In my free time, i work on various coding projects as a hobby. This varies from economic modelling to various data science applications in R and Python. 
+I am an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I have some knowledge and training in STATA as well. In my free time, i work on various coding projects as a hobby. This varies from economic modelling to various data science applications in R and Python. Some of my projects are posted on my GitHub page. 
 
 ## Outside of Economics
 Outside of my passion for Economics, I sing in a couple of choral ensembles, I like reading books, and watching documentaries. I am also a casual PC gamer.
