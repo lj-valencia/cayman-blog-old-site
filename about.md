@@ -7,16 +7,16 @@ ref: about
 order: 0
 ---
 # About me
-I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. My research interests focus on political economy, macroeconomics, and data science. 
+I graduated with a Bachelor of Arts (Honors) with a major in Economics and a minor in Political Science at the University of Alberta. My research interests focus on political economy, macroeconomics, and applied data science. 
 
 Shortly after graduating at the University of Alberta, I joined [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist where 
-I apply economics and data science in developing evidence-driven public policy. 
+I apply economics and data science in helping develop evidence-driven public policy. 
 
 ## Programming
-I am an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I have some knowledge and training in STATA as well. In my free time, i work on various coding projects as a hobby. This varies from economic modelling to various data science applications in R and Python. Some of my projects are posted on my GitHub page. 
+I am an avid programmer. I write code in Python, R, MATLAB, and LaTeX. I have some knowledge and training in STATA as well. In my free time, I work on various coding projects as a hobby. My projects vary from economic modelling to various data science applications in R and Python. Some of my completed projects are posted on my GitHub page. 
 
 ## Outside of Economics
-Outside of my passion for Economics, I sing in a couple of choral ensembles, I like reading books, and watching documentaries. I am also a casual PC gamer.
+Outside of my passion for Economics, I sing in a couple of choral ensembles, I like reading books, and watching documentaries. I am also a casual PC gamer. 
 
 I grew up in the Philippines and currently reside in Edmonton, AB, Canada.
 
