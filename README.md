@@ -1,13 +1,18 @@
 # Welcome!
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-## About the website
-This is my personal website, built using the [Cayman Blog theme](https://github.com/lorepirri/cayman-blog) by Lorenzo Pirritano. I've made design modifications on the original Cayman Blog theme to suit my personal preferences. Modifications include:
-* A customized footer which includes logos and statements.
-* A profile image for the 'About Me' section of the website.
-* The 'Contact Me' page present on the original theme is removed.
+## Table of Contents
+- [About the website](#About-Website")
+- [Credits](#Credits)
+- [License](#License)
 
-## Credits
+## About the website <a name="About-Website"></a>
+This is my personal website, built using the [Cayman Blog theme](https://github.com/lorepirri/cayman-blog) by Lorenzo Pirritano. I've made modifications on the original Cayman Blog theme to suit my personal preferences. These modifications include:
+* A customized footer which includes a LinkedIn logo and copyright statement.
+* A profile image for the 'About Me' section of the website.
+* The 'Contact Me' page that is present on the original theme is removed.
+
+## Credits <a name="Credits"></a>
 * Creator: Lorenzo Pirritano 
     * Github: [lorepirri](https://github.com/lorepirri)
     * Website: https://lorepirri.com/
@@ -26,5 +31,5 @@ This is my personal website, built using the [Cayman Blog theme](https://github.
     * [jldec](https://github.com/jldec)
     * [jcbpl](https://github.com/jcbpl)
     
-## License
+## License <a name="License"></a>
 This project is made available under the [Creative Commons v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/legalcode). 
