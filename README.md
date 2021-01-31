@@ -2,7 +2,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## About the website
-This is my personal website, built using the [Cayman Blog theme](https://github.com/lorepirri/cayman-blog) by Lorenzo Pirritano. I've made design modifications that are not present on the original Cayman Blog theme to suit my personal preferences. Modifications include:
+This is my personal website, built using the [Cayman Blog theme](https://github.com/lorepirri/cayman-blog) by Lorenzo Pirritano. I've made design modifications on the original Cayman Blog theme to suit my personal preferences. Modifications include:
 * A customized footer which includes logos and statements.
 * A profile image for the 'About Me' section of the website.
 * The 'Contact Me' page present on the original theme is removed.
