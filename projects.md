@@ -26,6 +26,6 @@ This is a project I worked on during the summer of 2020. The goal of the project
 This project demonstrates how to estimate an autoregressive LASSO using a lagged data-set and use this estimated model for forecasting. To see the files, 
 [click here](https://github.com/lj-valencia/R-projects/tree/master/Autoregressive-LASSO).
 
-### Data Retrieval using CANSIM & R
+### Data Retrieval using the cansim package
 This project shows how to retrieve data from CANSIM using the cansim package. Vector coordinates are used through the cansim package to retrieve data. To see the files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval).
 
