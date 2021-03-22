@@ -12,7 +12,8 @@ This page contains links to projects I have worked using Python, R, and MATLAB. 
 This is a set of introductory examples on how to apply Python to economic modelling. I do not fully discuss the nuances of the models and appropriate programming practices/conventions in these examples. 
 
 ### List of Models:
-[(1) Malthusian Growth Model](https://github.com/lj-valencia/Python-for-Macroeconomics/blob/master/Malthusian%20Model.ipynb)
+- [(1) Malthusian Growth Model](https://github.com/lj-valencia/Python-for-Macroeconomics/blob/master/Malthusian%20Model.ipynb)
+- [(2) One-Period Macroeconomic Model: The Representative Consumer](https://github.com/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Consumer.ipynb)
 
 # MATLAB
 Projects I worked on using MATLAB involve the IRIS macroeconomic modelling toolbox.
