@@ -15,6 +15,7 @@ This is a set of introductory examples on how to apply Python to economic modell
 - [(1) Simple Malthusian Model](https://github.com/lj-valencia/Python-for-Economics/blob/master/Malthusian%20Model.ipynb)
 - [(2) The Representative Consumer](https://github.com/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Consumer.ipynb)
   - [(2.1) The Representative Consumer: Scenarios and the Labour Supply Curve](https://github.com/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20Scenarios%20and%20Labour%20Supply%20Curve.ipynb)
+- [(3) The Representative Firm](https://github.com/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Firm.ipynb)
 
 # MATLAB
 Projects I worked on using MATLAB involve the IRIS macroeconomic modelling toolbox.
