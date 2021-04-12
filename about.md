@@ -12,7 +12,7 @@ I graduated with a Bachelor of Arts (Honors) with a major in Economics and a min
 Shortly after graduating at the University of Alberta, I joined [Western Economic Diversification Canada (WD)](https://www.wd-deo.gc.ca/eng/home.asp) as a Junior Economist. 
 
 ## Programming
-I am an avid programmer. My knowledge in programming and software involve:
+I am an avid programmer. My knowledge in programming and software include:
 - **Programming:** Python, R
 - **Software:** LaTeX, MATLAB, STATA
 
