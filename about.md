@@ -16,7 +16,7 @@ I am an avid programmer. My knowledge in programming and software involve:
 - **Programming:** Python, R
 - **Software:** LaTeX, MATLAB, STATA
 
-In my free time, I work on various coding projects as a hobby. My projects vary from economic modelling to various data science applications in R and Python. Some of my completed projects are posted on my GitHub page. 
+I work on various coding projects as a hobby. My projects vary from economic modelling to various data science applications in R and Python. Some of my completed projects are posted on my GitHub page. 
 
 ## Outside of Economics
 Outside of my passion for Economics, I sing in a couple of choral ensembles, I like reading books, and watching documentaries. I am also a casual PC gamer. 
