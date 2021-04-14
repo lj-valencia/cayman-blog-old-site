@@ -7,21 +7,13 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-    
       <li>     
-        
         <h2>
-          
-          <a class="post-link" href=""/_posts{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-                                                                                                    
-        </h2>
-                                                                                                    
-        {{ post.excerpt | markdownify | truncatewords: 30 }}
-                                                                                                    
-      </li>
-                                                                                                    
-    {% endfor %}
-                                                                                                    
+          <a class="post-link" href=""/_posts{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>                                                                                        
+        </h2>                                                                                     
+        {{ post.excerpt | markdownify | truncatewords: 30 }}                                                                                        
+      </li>                                                                                      
+    {% endfor %}                                                                                       
   </ul>
 
 </div>
