@@ -8,7 +8,7 @@ order: 2
 ---
 This page contains links to projects I have worked using Python, R, and MATLAB. To see the source code for all my projects, [click here](https://github.com/lj-valencia).
 
-[/pythonforecon.html](# Python for Economics)
+[pythonforecon.html](# Python for Economics)
 This project contains a set of examples that demonstrate Python applications to economic modelling.
 
 [](# MATLAB Projects)
