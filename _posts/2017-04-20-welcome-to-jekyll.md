@@ -1,23 +1,17 @@
 ---
 layout: post
-title: "Welcome to Jekyll"
+title: R Projects"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Projects I've worked on in R.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Time-Series Forecasting using Autoregressive LASSO
+This project demonstrates how to estimate an autoregressive LASSO using a lagged data-set and use this estimated model for forecasting. To see the files, 
+[click here](https://github.com/lj-valencia/R-projects/tree/master/Autoregressive-LASSO).
 
-Jekyll also offers powerful support for code snippets:
+### Data Retrieval using the cansim package
+This project shows how to retrieve data from CANSIM using the cansim package. Vector coordinates are used through the cansim package to retrieve data. To see the files, [click here](https://github.com/lj-valencia/R-projects/tree/master/CANSIM-Retrieval).
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Extracting data from PDF files using the pdftools package
+This project shows how to extract data from pdf files using the pdftools package. To see the files, [click here](https://github.com/lj-valencia/R-projects/tree/master/Extract-PDF-1).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
 
