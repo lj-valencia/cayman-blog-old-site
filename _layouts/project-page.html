@@ -4,14 +4,14 @@ layout: default
 {{ content }}
 
 <div>
-  <ul class="post-list">
-    {% for project in site.projects %}
-      <li>     
-        <h2>
-          <a class="post-link" href="{{ project.url | absolute_url }}" title="{{ project.title }}">{{ project.title | escape }}</a>                                                                                        
-        </h2>                                                                                     
-        {{ project.excerpt | markdownify | truncatewords: 30 }}                                                                                        
-      </li>                                                                                      
-    {% endfor %}                                                                                       
-  </ul>
+<ul class="post-list">
+  {% for project in site.projects %}
+    <li>     
+      <h2>
+        <a class="post-link" href="{{ project.url | absolute_url }}" title="{{ project.title }}">{{ project.title | escape }}</a>                                                                                        
+      </h2>                                                                                     
+      {{ project.excerpt | markdownify | truncatewords: 14 }}                                                                                        
+    </li>                                                                                      
+  {% endfor %}                                                                                       
+</ul>
 </div>
