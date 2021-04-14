@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+permalink: /matlab-projects.html
 title: "MATLAB Projects"
 ---
 Projects I worked on using MATLAB involve the IRIS macroeconomic modelling toolbox.
