@@ -18,7 +18,9 @@ collections:
   posts:
     output: true
       permalink: /projects/:path/
-  
+      
+include: ['_collections', '_posts', '_projects']
+
 # social
 author: LJ Valencia
 # image: /thumbnail-jumbo.png
