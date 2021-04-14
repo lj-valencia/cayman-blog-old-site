@@ -8,7 +8,7 @@ order: 2
 ---
 This page contains links to projects I have worked using Python, R, and MATLAB. To see the source code for all my projects, [click here](https://github.com/lj-valencia).
 
-# Python for Economics
+# [Python for Economics](Python for Economics.md)
 This is a set of introductory examples on how to apply Python to economic modelling. I do not fully discuss the nuances of the models and appropriate programming practices/conventions in these examples. 
 
 ### List of Models:
