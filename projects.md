@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: Projects
-tagline: Welcome to my project page.
+tagline: Welcome to my project page!
 permalink: /projects.html
 ref: projects
 order: 2
