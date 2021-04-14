@@ -3,7 +3,7 @@ description: Hello there! Welcome to my personal page!
 show_downloads: true
 
 url: "https://lj-valencia.github.io" # change this to the base hostname & protocol for your site
-baseurl: "/_posts" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 
 google_analytics:
 
