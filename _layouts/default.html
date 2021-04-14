@@ -35,6 +35,7 @@
     {% endif %}
     
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <link rel="canonical" href="{{ page.url | replace:'projects.html','' | absolute_url }}">
     
     {% if site.plugins contains "jekyll-feed" %}
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | absolute_url }}">
