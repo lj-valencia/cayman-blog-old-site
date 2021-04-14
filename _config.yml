@@ -17,6 +17,7 @@ theme: # leave it empty
 collections:
   posts:
     output: true
+      permalink: /projects/:path/
   
 # social
 author: LJ Valencia
