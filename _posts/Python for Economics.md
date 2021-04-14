@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Python for Economics"
+permalink: /pythonforecon.html
 ---
 This project contains a set of examples that demonstrate Python applications to economic modelling. 
 {% highlight ruby %}
