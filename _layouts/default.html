@@ -66,6 +66,9 @@
         {% if page.layout == 'about-custom' %}
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
+        {% if page.layout == 'projects' %}
+        {% assign page-tagline = page.tagline | escape  %}
+        {% endif %}
         
         <section class="page-header">  
             {% if page.layout == 'about-custom' %}
