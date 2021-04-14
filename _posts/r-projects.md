@@ -1,6 +1,7 @@
 ---
-layout: post
-title: R Projects"
+layout: page
+permalink: /r-projects.html
+title: R Projects
 ---
 Projects I've worked on in R.
 
