@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: R Projects
 ---
 Projects I've worked on in R.
