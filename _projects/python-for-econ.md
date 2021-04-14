@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Python for Economics"
 ---
 This project contains a set of examples that demonstrate Python applications to economic modelling. 
