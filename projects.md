@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Projects
-tagline: My project page, containing all things relevant to Economics and not.
+tagline: Welcome to my project page.
 permalink: /projects.html
 ref: projects
 order: 2
 ---
 This page contains links to projects I have worked using Python, R, and MATLAB. To see the source code for all my projects, [click here](https://github.com/lj-valencia).
 
-[Python4Econ.html](# Python for Economics)
+[/pythonforecon.html](# Python for Economics)
 This project contains a set of examples that demonstrate Python applications to economic modelling.
 
 [](# MATLAB Projects)
