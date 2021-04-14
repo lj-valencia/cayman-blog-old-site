@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project-page
 title: Projects
 tagline: Welcome to my project page.
 permalink: /projects.html
