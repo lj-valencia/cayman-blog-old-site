@@ -15,7 +15,8 @@ cayman-blog:
 theme: # leave it empty
 
 collections:
-  - posts
+  posts:
+    output: true
   
 # social
 author: LJ Valencia
