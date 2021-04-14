@@ -8,11 +8,10 @@ order: 2
 ---
 This page contains links to projects I have worked using Python, R, and MATLAB. To see the source code for all my projects, [click here](https://github.com/lj-valencia).
 
-# Python for Economics
 [Python for Economics.md](# Python for Economics)
 This project contains a set of examples that demonstrate Python applications to economic modelling.
 
-# MATLAB Projects
+[](# MATLAB Projects)
 Projects I worked on using MATLAB involve the IRIS macroeconomic modelling toolbox.
 
 ### Canadian Macroeconomic Forecasting 
