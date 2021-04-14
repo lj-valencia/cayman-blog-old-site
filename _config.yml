@@ -15,12 +15,10 @@ cayman-blog:
 theme: # leave it empty
 
 collections:
-  posts:
+  projects:
     output: true
       permalink: /projects/:path/
-      
-include: ['_collections', '_posts', '_projects']
-
+     
 # social
 author: LJ Valencia
 # image: /thumbnail-jumbo.png
