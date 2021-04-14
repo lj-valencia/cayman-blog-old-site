@@ -1,0 +1,35 @@
+
+---
+layout: default
+---
+<div>
+
+  {{ content }}
+<!-- Remove the arrow signs to add a latest posts component to the GitHub page. -->
+
+  <!--<h2>Latest Posts</h2>
+  <div>&nbsp;</div> 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+        </h2>
+
+        {{ post.excerpt | markdownify | truncatewords: 30 }}
+      </li>
+    {% endfor %}
+  </ul>-->
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+      </h2>
+
+      {{ post.excerpt | markdownify | truncatewords: 30 }}
+    </li>
+  {% endfor %}
+</ul>
+-->
+</div>
