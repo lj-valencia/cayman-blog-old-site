@@ -66,11 +66,12 @@
         {% if page.layout == 'about-custom' %}
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
-        {% if page.layout == 'projects' %}
+        {% if page.layout == 'project-page' %}
         {% assign page-tagline = page.tagline | escape  %}
         {% endif %}
         
         <section class="page-header">  
+            <!-- Add image in header for about -->
             {% if page.layout == 'about-custom' %}
             <div class="circular"></div>
             {% endif %}
