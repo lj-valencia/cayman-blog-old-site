@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: page
+permalink: /Python4Econ.html
+tagline: My project page, containing all things relevant to Economics and not.
 ---
 This project contains a set of examples that demonstrate Python applications to economic modelling. 
 {% highlight ruby %}
