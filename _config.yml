@@ -25,7 +25,7 @@ image: /lj-valencia-site.JPG
 twitter:
   username: SoyLeroy
 linkedin_username: lj-valencia
-email_address: lebjenri@ualberta.ca
+email_address: mailto:lebjenri@ualberta.ca
 
 plugins:
   - jekyll-target-blank
