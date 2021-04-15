@@ -2,12 +2,7 @@
 layout: page
 title: "Python for Economics"
 ---
-This project contains a Python projects I worked on demonstrating various applications to Economics. 
-
-{% highlight ruby %}
-print("Hello, World!")
-  "Hello, World."
-{% endhighlight %}
+This page contains projects I worked on which demonstrate various applications of Python to Economics. 
 
 # List of Projects
 - [Python for Macroeconomics](#Python-for-Macro)
