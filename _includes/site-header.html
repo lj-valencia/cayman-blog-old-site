@@ -22,10 +22,10 @@
         </label>
 
         <div class="trigger">
-          {% for ref in page_refs %}
-            {% if ref = "cv" %}
-                <a class="page-link" href="lj-valencia.github.io/LJ-Valencia-CV.pdf" target="_blank">{{ CV | escape }}</a>
+          {% if page_refs = "cv" %}
+                <a class="page-link" href="{{ LJ-Valencia-CV.pdf | absolute_url }}" target="_blank">{{ CV | escape }}</a>
             {% endif %}
+          {% for ref in page_refs %}
             {% assign my_page = site.pages | where: "ref", ref | first %}
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
