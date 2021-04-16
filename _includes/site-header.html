@@ -3,7 +3,7 @@
   <div class="wrapper">
     {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
-
+    
     {% if page.layout != 'home' %}
       <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
     {% endif %}
@@ -30,7 +30,7 @@
                 <a class="page-link" href="{{ my_page.url | absolute_url }}">{{ my_page.title | escape }}</a>
               {% endif %}
               {% if my_page.title = "cv" %}
-                <a class="page-link" href="{{ "https://lj-valencia.github.io/LJ-Valencia-CV.pdf" | absolute_url }}">{{ CV | escape }}</a>
+                <a class="page-link" href="{{ /LJ-Valencia-CV.pdf | absolute_url }}">{{ CV | escape }}</a>
               {% endif %}
             {% endif %}
           {% endfor %}
