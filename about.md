@@ -1,7 +1,7 @@
 ---
 layout: about-custom
 title: About
-tagline: I am an Economist & Avid programmer.
+tagline: I am an Economist & Avid Programmer.
 permalink: /about.html
 ref: about
 order: 0
