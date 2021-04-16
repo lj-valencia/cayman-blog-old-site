@@ -3,6 +3,6 @@ layout: page
 title: CV
 tagline: 
 permalink: /cv.html
-ref: about
+ref: cv
 order: 1
 ---
