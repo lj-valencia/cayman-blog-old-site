@@ -1,6 +1,6 @@
 ---
 layout: page
 title: CV
-permalink: /cv.html
+permalink: /assets/LJ-Valencia-CV.pdf
 ref: CV
 ---
