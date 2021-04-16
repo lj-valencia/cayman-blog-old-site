@@ -2,7 +2,7 @@
 layout: page
 title: CV
 tagline: 
-permalink: /LJ-Valencia-CV.pdf
+permalink: /cv.html
 ref: cv
 order: 1
 ---
