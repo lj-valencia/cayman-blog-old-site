@@ -1,0 +1,14 @@
+# Belongs at: /_data/navigation.yml
+
+- title: About
+  url: /about.html
+
+- title: Projects
+  url: /projects/
+  sublinks:
+    - title: matlab-projects
+      url: /projects/matlab-projects.html
+    - title: python-for-econ
+      url: /projects/python-for-econ.html
+    - title: r-projects
+      url: /projects/r-projects.html
