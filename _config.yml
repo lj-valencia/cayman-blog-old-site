@@ -26,6 +26,7 @@ twitter:
   username: SoyLeroy
 linkedin_username: lj-valencia
 email_address: mailto:lebjenri@ualberta.ca
+cvlink: "https://lj-valencia.github.io/LJ-Valencia-CV.pdf"
 
 plugins:
   - jekyll-target-blank
