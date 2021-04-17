@@ -3,6 +3,7 @@
   <div class="wrapper">
     {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
+    {% assign cv_link = site.cvlink %}
     
     {% if page.layout != 'home' %}
       <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
@@ -31,7 +32,7 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          <a class="page-link" href="https://lj-valencia.github.io/LJ-Valencia-CV.pdf" target="_blank">CV</a>
+          <a class="page-link" href="{{ cv_link }}" target="_blank">CV</a>
         </div>
       </nav>
     {% endif %}
