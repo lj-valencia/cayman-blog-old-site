@@ -12,9 +12,9 @@ This page contains projects I worked on which demonstrate various applications o
 ## Python for Macroeconomics<a name="Python-for-Macro"></a>
 Python for Macroeconomics are a series of notes showing how to apply Python to macroeconomic modelling. Some of the models developed in these notes are based from *Macroeconomics, Fifth Edition* by Williamson (2014).
 ### Growth Theory<a name="Growth"></a>
-- [(1) Simple Malthusian Model](https://github.com/lj-valencia/Python-for-Economics/blob/master/Malthusian%20Model.ipynb)
+- [(1) Simple Malthusian Model](https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/Malthusian%20Model.ipynb)
 
 ### The One-Period Macroeconomic Model<a name="OP-Macro"></a>
-- [(2) The Representative Consumer](https://github.com/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Consumer.ipynb)
-  - [(2.1) The Representative Consumer: Scenarios and the Labour Supply Curve](https://github.com/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20Scenarios%20%26%20The%20Labour%20Supply%20Curve.ipynb)
+- [(2) The Representative Consumer](https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Consumer.ipynb)
+  - [(2.1) The Representative Consumer: Scenarios and the Labour Supply Curve](https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20Scenarios%20%26%20The%20Labour%20Supply%20Curve.ipynb)
 - [(3) The Representative Firm & The Labour Demand Curve](https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Firm.ipynb)
