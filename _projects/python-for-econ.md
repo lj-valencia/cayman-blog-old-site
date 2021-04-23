@@ -16,5 +16,5 @@ Python for Macroeconomics are a series of notes showing how to apply Python to m
 
 ### The One-Period Macroeconomic Model<a name="OP-Macro"></a>
 - <a href="https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Consumer.ipynb" target="_blank">(2) The Representative Consumer</a>
-- <a href="https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20Scenarios%20%26%20The%20Labour%20Supply%20Curve.ipynb" target="_blank">(2.1) The Representative Consumer: Scenarios and the Labour Supply Curve</a>
+  - <a href="https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20Scenarios%20%26%20The%20Labour%20Supply%20Curve.ipynb" target="_blank">(2.1) The Representative Consumer: Scenarios and the Labour Supply Curve</a>
 - <a href="https://nbviewer.jupyter.org/github/lj-valencia/Python-for-Economics/blob/master/One-Period%20Macroeconomic%20Model%20-%20The%20Representative%20Firm.ipynb" target="_blank">(3) The Representative Firm & The Labour Demand Curve</a>
